@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gazmir
-- 👀 I’m interested in Automation Testing using Java
+- 👀 I’m interested in Java, Python, Automation Testing, AI, ...
 - 🌱 I’m currently learning Selenium, WebDriver, Cucumber, ...
 - 💞️ I’m looking to collaborate on Quality Assurance Engineering
 
